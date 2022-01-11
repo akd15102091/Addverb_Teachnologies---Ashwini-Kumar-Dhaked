@@ -71,7 +71,7 @@ function App() {
         <AllCountries data={asiaData} />
       </div>
 
-      {asiaData.length==0 && (
+      { inputData.length && asiaData.length==0 && (
         <div className="notFound">
           No Results Found ....!!
         </div>
