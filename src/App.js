@@ -70,6 +70,12 @@ function App() {
       <div>
         <AllCountries data={asiaData} />
       </div>
+
+      {asiaData.length==0 && (
+        <div className="notFound">
+          No Results Found ....!!
+        </div>
+      )}
     </div>
   );
 }
