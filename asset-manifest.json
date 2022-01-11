@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/Addverb_Teachnologies---Ashwini-Kumar-Dhaked/static/css/main.877aac84.css",
-    "main.js": "/Addverb_Teachnologies---Ashwini-Kumar-Dhaked/static/js/main.cf7528a0.js",
+    "main.js": "/Addverb_Teachnologies---Ashwini-Kumar-Dhaked/static/js/main.aa86b2d5.js",
     "static/js/787.00796187.chunk.js": "/Addverb_Teachnologies---Ashwini-Kumar-Dhaked/static/js/787.00796187.chunk.js",
     "index.html": "/Addverb_Teachnologies---Ashwini-Kumar-Dhaked/index.html",
     "main.877aac84.css.map": "/Addverb_Teachnologies---Ashwini-Kumar-Dhaked/static/css/main.877aac84.css.map",
-    "main.cf7528a0.js.map": "/Addverb_Teachnologies---Ashwini-Kumar-Dhaked/static/js/main.cf7528a0.js.map",
+    "main.aa86b2d5.js.map": "/Addverb_Teachnologies---Ashwini-Kumar-Dhaked/static/js/main.aa86b2d5.js.map",
     "787.00796187.chunk.js.map": "/Addverb_Teachnologies---Ashwini-Kumar-Dhaked/static/js/787.00796187.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.877aac84.css",
-    "static/js/main.cf7528a0.js"
+    "static/js/main.aa86b2d5.js"
   ]
 }
